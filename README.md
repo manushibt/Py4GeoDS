@@ -44,7 +44,7 @@ The course prerequistes are,
 Manushi Trivedi : 
 
 LinkedIn: https://www.linkedin.com/in/manushi-trivedi-51295a116/
-Google Scholar: https://scholar.google.com/citations?user=Eu15wTEAAAAJ&hl=en
+<br/> Google Scholar: https://scholar.google.com/citations?user=Eu15wTEAAAAJ&hl=en
 
 # Demo Results of Execercises
 
