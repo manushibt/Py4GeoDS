@@ -47,10 +47,14 @@ LinkedIn: https://www.linkedin.com/in/manushi-trivedi-51295a116/
 
 # Vector Demo Results of Execercises
 
-![Test Image 3](Vector.PNG)
+![vector](Vector.PNG)
 
 # Raster Demo Results of Execercises
+
+![raster](Raster.PNG)
 # Visulization Demo Results of Execercises
+
+![vis](Vis.PNG)
 # Classification Results of Execercises
 
-
+![classification](Clust.PNG)
