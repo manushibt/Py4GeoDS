@@ -1,8 +1,11 @@
-<br/> [Course Summary](#course-summary)
+[Course Summary](#course-summary)
 <br/> [What you will learn?](#what-you-will-learn-?)
 <br/> [Course Structure](#course-structure)
 <br/>[Course Instructors](#course-instructors)
-<br/>[Demo Results of Execercises](#demo-results-of-execercises)
+<br/>[Vector Demo Results of Execercises](#vector-demo-results-of-execercises)
+<br/>[Raster Demo Results of Execercises](#raster-demo-results-of-execercises)
+<br/>[Visulization Demo Results of Execercises](#visulization-demo-results-of-execercises)
+<br/>[Classification Results of Execercises](#classification-demo-results-of-execercises)
 
 # Course Summary
 
@@ -42,5 +45,12 @@ Manushi Trivedi :
 LinkedIn: https://www.linkedin.com/in/manushi-trivedi-51295a116/
 <br/> Google Scholar: https://scholar.google.com/citations?user=Eu15wTEAAAAJ&hl=en
 
-# Demo Results of Execercises
+# Vector Demo Results of Execercises
+
+
+
+# Raster Demo Results of Execercises
+# Visulization Demo Results of Execercises
+# Classification Results of Execercises
+
 
