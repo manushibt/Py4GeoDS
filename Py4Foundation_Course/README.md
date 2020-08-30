@@ -8,6 +8,7 @@
 <br/>[Raster Demo Results of Execercises](#raster-demo-results-of-execercises)
 <br/>[Visulization Demo Results of Execercises](#visulization-demo-results-of-execercises)
 <br/>[Classification Results of Execercises](#classification-demo-results-of-execercises)
+<br/>[Registration](#registration)
 
 # Course Summary
 
@@ -77,3 +78,7 @@ The visulization part does not only include plotting of spatial data but its att
 The unsupervised classification will be explored in this session.
 
 ![classification](Clust.PNG)
+
+# Registration
+
+Link for registration: http://albedofoundation.org/detail-online-course.php?slug=foundation-course-on-python-for-geo-spatial-data-application
