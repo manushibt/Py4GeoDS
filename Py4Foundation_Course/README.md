@@ -1,4 +1,5 @@
-[Course Summary](#course-summary)
+# Contents
+<br/> [Course Summary](#course-summary)
 <br/> [What you will learn?](#what-you-will-learn-?)
 <br/> [Course Structure](#course-structure)
 <br/> [Course Assessment](#course-assessment)
@@ -64,10 +65,15 @@ During the course we teach basics of python coding line by line and its use for 
 
 # Raster Demo Results of Execercises
 In raster processing include reading & writing raster files, image masking, accessing metadata of raster files, image stacking, Index calculation and batch processing etc.
+
 ![raster](Raster.PNG)
+
 # Visulization Demo Results of Execercises
 The visulization part does not only include plotting of spatial data but its attribute data as well. 
+
 ![vis](Vis.PNG)
+
 # Classification Results of Execercises
 The unsupervised classification will be explored in this session.
+
 ![classification](Clust.PNG)
