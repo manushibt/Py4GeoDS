@@ -1,6 +1,7 @@
 # Py4GeoDS
 
 This template discuss the glimpse of Python courses for Geospatial Data Science at Albedo Foundation. It describes the course content, structure and added benefits. Table of Contents are:
+<br/>
 <br/> [Courses at Albedo Foundation](#courses-at-albedo-foundation)
 <br/>[Report an issue or questions?](#report-an-issue-or-questions?)
 
