@@ -64,5 +64,5 @@ LinkedIn: https://www.linkedin.com/in/manushi-trivedi-51295a116/
 
 # Registration
 
-Link for registration: http://albedofoundation.org/detail-online-course.php?slug=foundation-course-on-python-for-geo-spatial-data-application
+Link for registration: [http://albedofoundation.org/detail-online-course.php?slug=foundation-course-on-python-for-geo-spatial-data-application](https://albedofoundation.org/detail-online-course.php?slug=machine-learning-for-geospatial-data-science-using-python)
 
