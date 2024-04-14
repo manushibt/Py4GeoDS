@@ -9,9 +9,5 @@ This template discuss the glimpse of Python courses for Geospatial Data Science 
 
 There are sevrals courses like python for Stastical modelling, Machine Learning, Foundation course 
 1. Python for Foundation Course : https://github.com/manushibt/Py4GeoDS/tree/master/Py4Foundation_Course
-2. Python for Stastical Modelling for Geospatial Data (Coming Soon)
-3. Python for Machine Learning for Geospatial Data (Coming Soon)
-4. Python for Advanced Visulization for Geospatial Data (Coming Soon)
-5. Python for Sentinel (Coming Soon)
+2. Python for Machine Learning for Geospatial Data : https://github.com/manushibt/Py4GeoDS/tree/master/Py4GeoML
 
-# Report an issue or questions?
